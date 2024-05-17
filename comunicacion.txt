@@ -1,0 +1,6 @@
+La UI solicita a la base de datos las imágenes para el entrenamiento.
+La base de datos envía las imágenes a la UI.
+La UI pasa las imágenes al componente de preprocesamiento de datos.
+El componente de preprocesamiento de datos procesa las imágenes y las envía al componente de entrenamiento del modelo.
+El componente de entrenamiento del modelo entrena el modelo y luego lo pasa al componente de validación del modelo.
+El componente de validación del modelo valida el modelo y envía los resultados de la validación a la UI para su visualización.

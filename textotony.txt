@@ -1,0 +1,14 @@
+Esta investigacion tiene como objetivo crear una aplicacion movil la cual su interfaz contara con un Sistema de posicionamiento global (GPS)
+en tiempo real mediante la utilizacion de la API de Google Maps. Esta sera aplicada en la estacion de transporte Ciudad Ojeda-Cabimas la cual 
+dicha aplicacion permitira a los usuarios ver la ubicacion del autobus y asi determinar el tiempo de espera, ademas mediante la interfaz de la aplicacion se podra
+reservar un puesto con un boleto si es deseado por el mismo. El chofer del servicio del transporte publico contara con una interfaz distinta para determinar cuantos
+pasajeros se encuentran en la estacion de Ciudad Ojeda-Cabimas 
+
+El sistema del transporte publico en Venezuela presenta muchas defiencias debido a la crisis y situacion actual del pais, por lo consiguiente el servicio de transporte no cuenta con
+la tecnologia actual para el servicio del transporte, ya que no existe un horario en especifico que le permita a las personas llegar la estacion y evitar esperar largos periodos de tiempo
+
+
+ Aplicación de rastreo de Sistema de Posicionamiento Global (GPS) Utilizando API de Google Maps en la estación Ciudad Ojeda-Cabimas
+
+
+El sistema de transporte público entre Ciudad Ojeda y Cabimas enfrenta desafíos en términos de eficiencia y puntualidad. Los usuarios a menudo experimentan largos tiempos de espera y rutas ineficientes debido a la falta de información en tiempo real sobre la ubicación de los vehículos.
